@@ -9,7 +9,9 @@ Dataiku DSS est un outil tout-en-un qui permet de produire un projet de la prép
 #### Comment se former à Dataiku ? Quel tutoriel faire ? 
 
 Afin de se former à utiliser la plateforme, Dataiku a mis en œuvre son propre système d’apprentissage gratuit, en passant par différents tutoriels ainsi que des vidéos en fonction du besoin et des compétences. 
+
 ![img1](https://github.com/team4224/dataiku/blob/master/images/dataiku_1.png?raw=true)
+
 Une rubrique « Getting Started » est disponible pour les débutants, on y trouve plusieurs vidéos ainsi que trois tutoriels en partant des premiers pas sur la plateforme (création du projet, du dataset, exploration de données, visualisation, etc…) jusqu’au déploiement des différentes méthodes de Machine Learning (création et  amélioration d’un modèle, puis la création d’une application où l’on peut tester le modèle sur de nouvelles données) en passant par les différentes manipulations à effectuer pour la transformation des données. 
 
 Une deuxième rubrique est disponible pour les amateurs ou les professionnels qui souhaitent se former sur un sujet en particulier, sous forme de vidéos YouTube d’environ 5min : Importation, Préparation des données, Data Visualisation, Code, Machine Learning, Automatisation, Scoring en temps réel, Administration, etc…
@@ -22,7 +24,9 @@ Une version d’essai du logiciel est disponible sur le site Dataiku (20 jours d
 
 **Les sites de E-learning**: 
 
-Sur Dataiku :  https://www.dataiku.com/learn/: 
+Sur [Dataiku](https://www.dataiku.com/learn/)
+
+![img_alluse](https://github.com/team4224/dataiku/blob/master/images/images/all_how%20to'se.png?raw=true)
 
 * 13 tutoriels disponibles dans la rubrique « How's to » sur le site de Dataiku  dont 7 pour débutant (Apprendre les bases ,Sql dans Dataiku, Apprentissage Machine Learning etc…). 
 
@@ -34,7 +38,7 @@ Sur Dataiku :  https://www.dataiku.com/learn/:
 
 Sur [Dataiku TeachTable](http://dataiku.teachable.com)
 
-Ce site propose de réaliser des projets avec une demande "métiers" en avançant pas à pas dans la réalisation.
+Qui donne un aperçu plus détaillé des fonctionnalités et de la proposition de valeur de la plateforme. On y retrouve également des projets de plus en plus complexes à réaliser dans DSS en avançant pas à pas dans la réalisation.
 
 ex : How to analyze sales figures for the Dataiku T-shirt company 
 
