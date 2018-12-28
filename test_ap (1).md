@@ -48,13 +48,13 @@ Exemple: How to analyze sales figures for the Dataiku T-shirt company
 
 La plateforme Dataiku offre aux **professionnels des données** des solutions pour  traiter , visualiser , analyser ou modéliser les données qui peuvent provenir de différentes sources (SQL Data base,Cloud etc...)
 
-Par professionnels de données ,on désigne : les Data Analyst, les Data Scientist et  les Data ops.
+Par professionnels de données ,on désigne : les Data Analyst, les Data Scientist et  les Data Engineer.
 
- * Pour les **Data Analyst**, Dataiku DSS propose une interface visuelle interactive au sein de laquelle il est possible de pointer, cliquer, et développer en utilisant des langages comme SQL,Python, R ,Scala, PySpark... Il est possible de confronter des données, modéliser, relancer les workflows, visualiser les résultats, et obtenir des insights sur demande.
+ * Pour les **Data Analyst**, Dataiku DSS propose une interface visuelle interactive qui donne la possibilité cliquer, pointer  et développer dans des langages comme SQL,Python, R ,Scala, PySpark... Il est aussi possible de confronter des données, réaliser des modèles (prédictifs ou de classification) sur les données, de relancer les workflows, visualiser les résultats, et obtenir des insights sur demande.
 
- * Pour les **Data Scientist** et les **développeurs**,Dataiku DSS permet de préparer et de modéliser les données en quelques secondes. Elle aide également à améliorer les bibliothèques ML comme scikitlearn, R, MLlib, ou H2O. Cet ensemble d'opportunités est offert par l'automatisation des tâches par le biais d’une interface entièrement personnalisable.
+ * Pour les **Data Scientist** et les **développeurs**,Dataiku DSS permet de préparer et de modéliser aisément et rapidement les données . Elle aide également à améliorer les bibliothèques ML comme scikitlearn, R, MLlib, ou H2O. Cet ensemble d'opportunités est offert par l'automatisation des tâches par le biais d’une interface entièrement personnalisable.
 
- * Pour les **Data Ops**, elle permet de coordonner le développement et les opérations grâce à l'automatisation du workflow, la création de services web prédictifs, et la surveillance du statut des données et des modèles au quotidien.
+ * Pour les **Data Engineer**, Dataiku DSS permet de coordonner tout le développement et toutes les opérations grâce à l'automatisation du workflow, de créer des services web prédictifs, et de monitorer la surveillance du statut des données et des modèles au quotidien.
 
 #### Quelle certification DATAIKU ? Combien coûte la certification ?
 
