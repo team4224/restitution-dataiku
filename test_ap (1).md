@@ -72,19 +72,19 @@ Il n’existe qu’une seule certification DATAIKU DSS, disponible sur le site D
 
 En complément, voici une liste de ressources qui peut être utilisée dans le cadre de la prise en main de DSS:
 
-Guide utilisateur :
+* Guide utilisateur :
 
 <https://www.dataiku.com/learn/>
 
-La documentation de référence:
+* La documentation de référence:
 
 <https://doc.dataiku.com/dss/latest>
 
-Un site de question réponse:
+* Un site de question réponse:
 
 http://answers.dataiku.com/
 
-Ainsi que la chaîne YouTube de DATAIKU :
+* La chaîne YouTube de DATAIKU :
 
 <https://www.youtube.com/channel/UCSMqVwPTmerMiCaL_zKRjBw>
 
