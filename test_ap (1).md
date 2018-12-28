@@ -22,7 +22,7 @@ Une troisième rubrique contenant des uses cases est disponible afin de s’entr
 
 Une version d’essai du logiciel est disponible sur le site Dataiku (20 jours d’essai) qui donne accès à la plateforme depuis internet. 
 
-**Les sites de E-learning**: 
+**Les sites de E-learning**
 
 Sur [Dataiku](https://www.dataiku.com/learn/)
 
