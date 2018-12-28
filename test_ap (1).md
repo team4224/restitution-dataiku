@@ -54,7 +54,7 @@ Par professionnels de données ,on désigne : les Data Analyst, les Data Scienti
 
  * Pour les **Data Scientist** et les **développeurs**,Dataiku DSS permet de préparer et de modéliser les données en quelques secondes. Elle aide également à améliorer les bibliothèques ML comme scikitlearn, R, MLlib, ou H2O. Cet ensemble d'opportunités est offert par l'automatisation des tâches par le biais d’une interface entièrement personnalisable.
 
- * Pour les **Data Ops**,Dataiku DSS retire l'inquiétude liée à l’utilisation de plateformes multi-technologiques. Elle permet de coordonner le développement et les opérations grâce à l'automatisation du workflow, la création de services web prédictifs, et la surveillance du statut des données et des modèles au quotidien.
+ * Pour les **Data Ops**, elle permet de coordonner le développement et les opérations grâce à l'automatisation du workflow, la création de services web prédictifs, et la surveillance du statut des données et des modèles au quotidien.
 
 #### Quelle certification DATAIKU ? Combien coûte la certification ?
 
