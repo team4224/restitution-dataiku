@@ -1,5 +1,5 @@
-<center>  <span style="color:red">**Documentation Dataiku.**  </span>  </center>
-
+![img_titre](https://github.com/team4224/dataiku/blob/master/images/image%20dataiku.png?raw=true)
+# DECOUVRIR DATAIKU
 ####   Qu'est ce que Dataiku? 
 
 Dataiku est une société américaine spécialisée dans la science de la donnée. La plateforme de Data science Dataiku DSS propose aux équipes de professionnels de la data de collaborer au sein d’un même environnement. Elle permet non seulement le traitement analytique des données, mais également le développement de nouvelles solutions jusqu'à la data visualisation en passant par le stockage et la modélisation. Son approche collaborative permet d’aider les spécialistes au sein d’une équipe de l’utiliser pour : explorer, analyser, développer ou encore produire des données de manière optimale. 
