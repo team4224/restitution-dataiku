@@ -9,7 +9,7 @@ Dataiku DSS est un outil tout-en-un qui permet de produire un projet de la prép
 #### Comment se former à Dataiku ? Quel tutoriel faire ? 
 
 Afin de se former à utiliser la plateforme, Dataiku a mis en œuvre son propre système d’apprentissage gratuit, en passant par différents tutoriels ainsi que des vidéos en fonction du besoin et des compétences. 
-
+![img1](https://github.com/team4224/dataiku/blob/master/images/dataiku_1.png?raw=true)
 Une rubrique « Getting Started » est disponible pour les débutants, on y trouve plusieurs vidéos ainsi que trois tutoriels en partant des premiers pas sur la plateforme (création du projet, du dataset, exploration de données, visualisation, etc…) jusqu’au déploiement des différentes méthodes de Machine Learning (création et  amélioration d’un modèle, puis la création d’une application où l’on peut tester le modèle sur de nouvelles données) en passant par les différentes manipulations à effectuer pour la transformation des données. 
 
 Une deuxième rubrique est disponible pour les amateurs ou les professionnels qui souhaitent se former sur un sujet en particulier, sous forme de vidéos YouTube d’environ 5min : Importation, Préparation des données, Data Visualisation, Code, Machine Learning, Automatisation, Scoring en temps réel, Administration, etc…
