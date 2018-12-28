@@ -32,7 +32,7 @@ Sur Dataiku :  https://www.dataiku.com/learn/:
 
 \-  Possibilité d'assister à des démos en live le Mercredi à 12h, qui présente les fonctionnalités de base. 
 
-Sur Dataiku TeachTable : http://dataiku.teachable.com
+Sur [Dataiku TeachTable](http://dataiku.teachable.com)
 
 Ce site propose de réaliser des projets avec une demande "métiers" en avançant pas à pas dans la réalisation.
 
