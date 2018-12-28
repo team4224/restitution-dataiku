@@ -90,7 +90,7 @@ Le test, entièrement en ligne, comporte 2 parties (à réaliser de préférence
 
 La première partie contient 50 questions à choix multiples, couvrant les fonctionnalités principales de DSS. Elle est limitée à 45 min et le score à atteindre est de 60%.
 
-![img](file:///C:/Users/emman/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+![image_1](https://github.com/team4224/dataiku/blob/master/images/Question_DATAIKU.png?raw=true)
 
 La deuxième partie consiste à réaliser un challenge Kaggle dans DSS, incluant des questions ouvertes sur la réalisation du projet (il faut penser à préparer ses questions pendant la construction du projet DSS). Les instructions du Kaggle  sont indiquées à la fin du QCM.
 
