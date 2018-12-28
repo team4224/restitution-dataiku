@@ -95,6 +95,7 @@ Pour passer la certification, il suffit de s'inscrire sur le site Dataiku et de 
 Le test, entièrement en ligne, comporte 2 parties (à réaliser de préférence en une fois) :
 
 La première partie contient 50 questions à choix multiples, couvrant les fonctionnalités principales de DSS. Elle est limitée à 45 min et le score à atteindre est de 60%.
+
 Type de question de la certification:
 
 ![image_1](https://github.com/team4224/dataiku/blob/master/images/Question_DATAIKU.png?raw=true)
