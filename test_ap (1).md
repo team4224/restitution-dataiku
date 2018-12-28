@@ -38,7 +38,7 @@ Sur [Dataiku](https://www.dataiku.com/learn/)
 
 Sur [Dataiku TeachTable](http://dataiku.teachable.com)
 
-[img_coours](https://github.com/team4224/dataiku/blob/master/images/images/images/featured_courses.png?raw=true)
+![img_coours](https://github.com/team4224/dataiku/blob/master/images/images/images/featured_courses.png?raw=true)
 
 Qui donne un aperçu plus détaillé des fonctionnalités et de la proposition de valeur de la plateforme. On y retrouve également des projets de plus en plus complexes à réaliser dans DSS en avançant pas à pas dans la réalisation.
 
