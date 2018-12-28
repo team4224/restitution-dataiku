@@ -24,13 +24,13 @@ Une version d’essai du logiciel est disponible sur le site Dataiku (20 jours d
 
 Sur Dataiku :  https://www.dataiku.com/learn/: 
 
-\- 13 tutoriels disponibles dans la rubrique « How's to » sur le site de Dataiku  dont 7 pour débutant (Apprendre les bases ,Sql dans Dataiku, Apprentissage Machine Learning etc…). 
+* 13 tutoriels disponibles dans la rubrique « How's to » sur le site de Dataiku  dont 7 pour débutant (Apprendre les bases ,Sql dans Dataiku, Apprentissage Machine Learning etc…). 
 
-\-  Environ une dizaine d’heures de vidéo pour commencer à se former sur Dataiku et apprendre à réaliser des traitements spécifiques tel que le Machine Learning 
+* Environ une dizaine d’heures de vidéo pour commencer à se former sur Dataiku et apprendre à réaliser des traitements spécifiques tel que le Machine Learning 
 
-\-  Des exemples de projets pour connaître les possibilités et alternatives d’utilisations de la plateforme en fonction des problématiques. 
+* Des exemples de projets pour connaître les possibilités et alternatives d’utilisations de la plateforme en fonction des problématiques. 
 
-\-  Possibilité d'assister à des démos en live le Mercredi à 12h, qui présente les fonctionnalités de base. 
+* Possibilité d'assister à des démos en live le Mercredi à 12h, qui présente les fonctionnalités de base. 
 
 Sur [Dataiku TeachTable](http://dataiku.teachable.com)
 
@@ -44,11 +44,11 @@ La plateforme Dataiku offre aux ** professionnels des données ** des solutions 
 
 Par professionnels de données ,on désigne : les Data Analyst, les Data Scientist et  les Data ops.
 
-   \- Pour les **Data Analyst**, Dataiku DSS propose une interface visuelle interactive au sein de laquelle il est possible de pointer, cliquer, et développer en utilisant des langages comme SQL,Python, R ,Scala, PySpark... Il est possible de confronter des données, modéliser, relancer les workflows, visualiser les résultats, et obtenir des insights sur demande.
+ * Pour les **Data Analyst**, Dataiku DSS propose une interface visuelle interactive au sein de laquelle il est possible de pointer, cliquer, et développer en utilisant des langages comme SQL,Python, R ,Scala, PySpark... Il est possible de confronter des données, modéliser, relancer les workflows, visualiser les résultats, et obtenir des insights sur demande.
 
-   \- Pour les **Data Scientist** et  les **développeurs**,Dataiku DSS permet de préparer et de modéliser les données en quelques secondes. Elle aide également à améliorer les bibliothèques ML comme scikitlearn, R, MLlib, ou H2O. Cet ensemble d'opportunités est offert par l'automatisation des tâches par le biais d’une interface entièrement personnalisable.
+ * Pour les **Data Scientist** et  les **développeurs**,Dataiku DSS permet de préparer et de modéliser les données en quelques secondes. Elle aide également à améliorer les bibliothèques ML comme scikitlearn, R, MLlib, ou H2O. Cet ensemble d'opportunités est offert par l'automatisation des tâches par le biais d’une interface entièrement personnalisable.
 
-   \- Pour les **Data Ops**,Dataiku DSS retire l'inquiétude liée à l’utilisation de plateformes multi-technologiques. Elle permet de coordonner le développement et les opérations grâce à l'automatisation du workflow, la création de services web prédictifs, et la surveillance du statut des données et des modèles au quotidien.
+ * Pour les **Data Ops**,Dataiku DSS retire l'inquiétude liée à l’utilisation de plateformes multi-technologiques. Elle permet de coordonner le développement et les opérations grâce à l'automatisation du workflow, la création de services web prédictifs, et la surveillance du statut des données et des modèles au quotidien.
 
 #### Quelle certification DATAIKU ? Combien coûte la certification ?
 
