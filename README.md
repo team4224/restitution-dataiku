@@ -2,13 +2,13 @@
 
 # DECOUVRIR DATAIKU
 
-#### Qu'est ce que Dataiku?
+#### Présentation de DATAIKU
 
 Dataiku est une société américaine spécialisée dans la science de la donnée. La plateforme de Data science Dataiku DSS propose aux équipes de professionnels de la data de collaborer au sein d’un même environnement. Elle permet non seulement le traitement analytique des données, mais également le développement de nouvelles solutions allant de la data visualisation en passant par le stockage et la modélisation. Son approche collaborative permet d’aider les spécialistes au sein d’une équipe de l’utiliser pour : explorer, analyser, développer ou encore produire des données de manière optimale. 
 
 Dataiku DSS est un outil tout-en-un qui permet de produire un projet de la préparation au déploiement. Cet environnement accorde l’utilisation des standards et langages lié au Big Data.
 
-#### Comment se former à Dataiku ? Quel tutoriel faire ?
+#### Montée en compétences
 
 Afin de se former à utiliser la plateforme, Dataiku a mis en œuvre son propre système d’apprentissage gratuit, en passant par différents tutoriels ainsi que des vidéos en fonction du besoin et des compétences.
 
@@ -20,7 +20,7 @@ Une deuxième rubrique est disponible pour les amateurs ou les professionnels qu
 
 Une troisième rubrique contenant des uses cases est disponible afin de s’entrainer sur différents sujets plus concrets notamment : Clustering, Deep Learning, Application Web, classification de texte et d’image, analyse de sentiment, et d’autres problématiques.  
 
-#### Durée du E-LEARNING
+#### Durée du E-Learning
 
 Une version d’essai du logiciel est disponible sur le site Dataiku (20 jours d’essai) qui donne accès à la plateforme depuis internet.
 
@@ -46,7 +46,7 @@ Ce site donne un aperçu plus détaillé des fonctionnalités et de la propositi
 
 Exemple: How to analyze sales figures for the Dataiku T-shirt company
 
-#### Quels sont les profils utilisateurs de Dataiku?
+#### Profils des utilisateurs Dataiku
 
 La plateforme Dataiku offre aux **professionnels des données** des solutions pour  traiter , visualiser , analyser ou modéliser les données qui peuvent provenir de différentes sources (SQL Data base,Cloud etc...)
 
@@ -58,11 +58,10 @@ Par professionnels de données ,on désigne : les Data Analyst, les Data Scienti
 
 * Pour les **Data Engineer**, Dataiku DSS permet de coordonner tout le développement et toutes les opérations grâce à l'automatisation du workflow, de créer des services web prédictifs, et de monitorer la surveillance du statut des données et des modèles au quotidien.
 
-#### Quelle certification DATAIKU ? Combien coûte la certification ?
 
-**La certification DATAIKU DSS**
+#### Certification DATAIKU DSS
 
-**Comment préparer la certification ?**
+**Préparation de la certification**
 
 Il n’existe qu’une seule certification DATAIKU DSS, disponible sur le site DATAIKU.
 
@@ -72,7 +71,7 @@ Il n’existe qu’une seule certification DATAIKU DSS, disponible sur le site D
 
 · Des projets différents en fonction de la difficulté
 
-En complément, voici une liste de ressources qui peut être utilisée dans le cadre de la prise en main de DSS:
+En complément, voici une liste de ressources qui peuvent être utilisées dans le cadre de la prise en main de DSS:
 
 * Le guide utilisateur :
 
@@ -90,7 +89,8 @@ http://answers.dataiku.com/
 
 <https://www.youtube.com/channel/UCSMqVwPTmerMiCaL_zKRjBw>
 
-**Comment passer la certification ?**
+
+**Déroulement de la certification**
 
 Pour passer la certification, il suffit de s'inscrire sur le site Dataiku et de remplir un [formulaire](https://www.dataiku.com/learn/portals/online-certification.html).
 
@@ -102,8 +102,15 @@ Type de question de la certification:
 
 ![image_1](images/Question_DATAIKU.png?raw=true)
 
-La deuxième partie consiste à réaliser un challenge Kaggle dans DSS, incluant des questions ouvertes sur la réalisation du projet (il faut penser à préparer ses questions pendant la construction du projet DSS). Les instructions du Kaggle  sont indiquées à la fin du QCM.
+La deuxième partie consiste à réaliser un challenge Kaggle dans DSS, incluant des questions ouvertes sur la réalisation du projet (il faut penser à préparer ses questions pendant la construction du projet DSS). Les instructions du Kaggle sont indiquées à la fin du QCM.
 
 Ce n’est qu’après l’envoi du screenshot du score Kaggle et du projet DSS zippé à l’adresse  [certification@dataiku.com](mailto:certification@dataiku.com), que  l’équipe DATAIKU  revient rapidement avec les résultats.
 
  De plus, il est obligatoire de réussir la première partie de la certification pour avoir accès à la seconde : un challenge Kaggle à faire sur Dataiku DSS.
+ 
+**Estimation du temps**
+Afin d'obtenir la certification, il faut compter à peu près 2 à 3 jours de pratique sur les différents tutoriels en suivant les différentes étapes évoquées ci-dessus. Dès la validation de la première partie du test, il est nécessaire de prévoir 2 jours pour passer la deuxième partie. 
+
+
+
+
