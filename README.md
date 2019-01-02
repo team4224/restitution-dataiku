@@ -61,7 +61,7 @@ Par professionnels de données ,on désigne : les Data Analyst, les Data Scienti
 
 #### Certification DATAIKU DSS
 
-**Préparation de la certification**
+* **Préparation de la certification**
 
 Il n’existe qu’une seule certification DATAIKU DSS, disponible sur le site DATAIKU.
 
@@ -90,7 +90,7 @@ http://answers.dataiku.com/
 <https://www.youtube.com/channel/UCSMqVwPTmerMiCaL_zKRjBw>
 
 
-**Déroulement de la certification**
+* **Déroulement de la certification**
 
 Pour passer la certification, il suffit de s'inscrire sur le site Dataiku et de remplir un [formulaire](https://www.dataiku.com/learn/portals/online-certification.html).
 
@@ -108,7 +108,7 @@ Ce n’est qu’après l’envoi du screenshot du score Kaggle et du projet DSS 
 
  De plus, il est obligatoire de réussir la première partie de la certification pour avoir accès à la seconde : un challenge Kaggle à faire sur Dataiku DSS.
  
-**Temps de préparation**
+* **Temps de préparation**
 
 Afin d'obtenir la certification, il faut compter à peu près 2 à 3 jours de pratique sur les différents tutoriels en suivant les différentes étapes évoquées ci-dessus. Dès la validation de la première partie du test, il est nécessaire de prévoir 2 jours pour passer la deuxième partie. 
 
