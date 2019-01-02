@@ -106,4 +106,4 @@ La deuxième partie consiste à réaliser un challenge Kaggle dans DSS, incluant
 
 Ce n’est qu’après l’envoi du screenshot du score Kaggle et du projet DSS zippé à l’adresse  [certification@dataiku.com](mailto:certification@dataiku.com), que  l’équipe DATAIKU  revient rapidement avec les résultats.
 
- De plus, il est obligatoire de réussir la première partie de la certification pour avoir accès à la réalisation du challenge Kaggle.
+ De plus, il est obligatoire de réussir la première partie de la certification pour avoir accès à la seconde : un challenge Kaggle à faire sur Dataiku DSS.
