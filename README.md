@@ -108,7 +108,7 @@ Ce n’est qu’après l’envoi du screenshot du score Kaggle et du projet DSS 
 
  De plus, il est obligatoire de réussir la première partie de la certification pour avoir accès à la seconde : un challenge Kaggle à faire sur Dataiku DSS.
  
-**Estimation du temps**
+**Temps de préparation**
 Afin d'obtenir la certification, il faut compter à peu près 2 à 3 jours de pratique sur les différents tutoriels en suivant les différentes étapes évoquées ci-dessus. Dès la validation de la première partie du test, il est nécessaire de prévoir 2 jours pour passer la deuxième partie. 
 
 
