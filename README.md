@@ -1,18 +1,18 @@
 ![img_titre](https://github.com/team4224/dataiku/blob/master/images/image%20dataiku.png?raw=true)
 # DECOUVRIR DATAIKU
-####   Qu'est ce que Dataiku? 
+####   Qu'est ce que Dataiku?
 
 Dataiku est une société américaine spécialisée dans la science de la donnée. La plateforme de Data science Dataiku DSS propose aux équipes de professionnels de la data de collaborer au sein d’un même environnement. Elle permet non seulement le traitement analytique des données, mais également le développement de nouvelles solutions allant de la data visualisation en passant par le stockage et la modélisation. Son approche collaborative permet d’aider les spécialistes au sein d’une équipe de l’utiliser pour : explorer, analyser, développer ou encore produire des données de manière optimale. 
 
-Dataiku DSS est un outil tout-en-un qui permet de produire un projet de la préparation au déploiement. Cet environnement accorde l’utilisation des standards et langages lié au Big Data. 
+Dataiku DSS est un outil tout-en-un qui permet de produire un projet de la préparation au déploiement. Cet environnement accorde l’utilisation des standards et langages lié au Big Data.
 
-#### Comment se former à Dataiku ? Quel tutoriel faire ? 
+#### Comment se former à Dataiku ? Quel tutoriel faire ?
 
-Afin de se former à utiliser la plateforme, Dataiku a mis en œuvre son propre système d’apprentissage gratuit, en passant par différents tutoriels ainsi que des vidéos en fonction du besoin et des compétences. 
+Afin de se former à utiliser la plateforme, Dataiku a mis en œuvre son propre système d’apprentissage gratuit, en passant par différents tutoriels ainsi que des vidéos en fonction du besoin et des compétences.
 
 ![img1](https://github.com/team4224/dataiku/blob/master/images/dataiku_1.png?raw=true)
 
-Une rubrique « Getting Started » est disponible pour les débutants, on y trouve plusieurs vidéos ainsi que trois tutoriels en partant des premiers pas sur la plateforme (création du projet, du dataset, exploration de données, visualisation, etc…) jusqu’au déploiement des différentes méthodes de Machine Learning (création et  amélioration d’un modèle, puis la création d’une application où l’on peut tester le modèle sur de nouvelles données) en passant par les différentes manipulations à effectuer pour la transformation des données. 
+Une rubrique « Getting Started » est disponible pour les débutants, on y trouve plusieurs vidéos ainsi que trois tutoriels en partant des premiers pas sur la plateforme (création du projet, du dataset, exploration de données, visualisation, etc…) jusqu’au déploiement des différentes méthodes de Machine Learning (création et  amélioration d’un modèle, puis la création d’une application où l’on peut tester le modèle sur de nouvelles données) en passant par les différentes manipulations à effectuer pour la transformation des données.
 
 Une deuxième rubrique est disponible pour les amateurs ou les professionnels qui souhaitent se former sur un sujet en particulier, sous forme de vidéos YouTube d’environ 5min : Importation, Préparation des données, Data Visualisation, Code, Machine Learning, Automatisation, Scoring en temps réel, Administration, etc…
 
@@ -20,7 +20,7 @@ Une troisième rubrique contenant des uses cases est disponible afin de s’entr
 
 #### Durée du E-LEARNING
 
-Une version d’essai du logiciel est disponible sur le site Dataiku (20 jours d’essai) qui donne accès à la plateforme depuis internet. 
+Une version d’essai du logiciel est disponible sur le site Dataiku (20 jours d’essai) qui donne accès à la plateforme depuis internet.
 
 **Les sites de E-learning**
 
@@ -28,13 +28,13 @@ Sur [Dataiku](https://www.dataiku.com/learn/)
 
 ![img_alluse](https://github.com/team4224/dataiku/blob/master/images/images/all_how%20to'se.png?raw=true)
 
-* 13 tutoriels disponibles dans la rubrique « How's to » sur le site de Dataiku  dont 7 pour débutant (apprendre les bases,Sql dans Dataiku,apprentissage Machine Learning etc…). 
+* 13 tutoriels disponibles dans la rubrique « How's to » sur le site de Dataiku  dont 7 pour débutant (apprendre les bases,Sql dans Dataiku,apprentissage Machine Learning etc…).
 
 * Plus d'une dizaine d’heures de vidéo pour commencer à se former sur Dataiku et apprendre à réaliser des traitements spécifiques
 
-* Des exemples de projets pour connaître les possibilités d’utilisations de la plateforme en fonction des problématiques rencontrées. 
+* Des exemples de projets pour connaître les possibilités d’utilisations de la plateforme en fonction des problématiques rencontrées.
 
-* Possibilité d'assister à des démos en live le Mercredi à 12h, qui présente les fonctionnalités de base. 
+* Possibilité d'assister à des démos en live le Mercredi à 12h, qui présente les fonctionnalités de base.
 
 Sur [Dataiku TeachTable](http://dataiku.teachable.com)
 
@@ -42,9 +42,9 @@ Sur [Dataiku TeachTable](http://dataiku.teachable.com)
 
 Ce site donne un aperçu plus détaillé des fonctionnalités et de la proposition de valeur de la plateforme. On y retrouve également des projets de plus en plus complexes à réaliser dans DSS en avançant pas à pas dans la réalisation.
 
-Exemple: How to analyze sales figures for the Dataiku T-shirt company 
+Exemple: How to analyze sales figures for the Dataiku T-shirt company
 
-#### Quels sont les profils utilisateurs de Dataiku? 
+#### Quels sont les profils utilisateurs de Dataiku?
 
 La plateforme Dataiku offre aux **professionnels des données** des solutions pour  traiter , visualiser , analyser ou modéliser les données qui peuvent provenir de différentes sources (SQL Data base,Cloud etc...)
 
@@ -62,7 +62,7 @@ Par professionnels de données ,on désigne : les Data Analyst, les Data Scienti
 
 **Comment préparer la certification ?**
 
-Il n’existe qu’une seule certification DATAIKU DSS, disponible sur le site DATAIKU. 
+Il n’existe qu’une seule certification DATAIKU DSS, disponible sur le site DATAIKU.
 
  Pour préparer la certification, DATAIKU  met à dispositon une plateforme de e-learning qui contient :
 
@@ -90,7 +90,7 @@ http://answers.dataiku.com/
 
 **Comment passer la certification ?**
 
-Pour passer la certification, il suffit de s'inscrire sur le site Dataiku et de remplir un [formulaire](https://www.dataiku.com/learn/portals/online-certification.html). 
+Pour passer la certification, il suffit de s'inscrire sur le site Dataiku et de remplir un [formulaire](https://www.dataiku.com/learn/portals/online-certification.html).
 
 Le test, entièrement en ligne, comporte 2 parties (à réaliser de préférence en une fois):
 
@@ -104,4 +104,4 @@ La deuxième partie consiste à réaliser un challenge Kaggle dans DSS, incluant
 
 Ce n’est qu’après l’envoi du screenshot du score Kaggle et du projet DSS zippé à l’adresse  [certification@dataiku.com](mailto:certification@dataiku.com), que  l’équipe DATAIKU  revient rapidement avec les résultats.
 
- De plus, il est obligatoire de réussir la première partie de la certification pour avoir accès à la réalisation du challenge Kaggle. 
+ De plus, il est obligatoire de réussir la première partie de la certification pour avoir accès à la réalisation du challenge Kaggle.
